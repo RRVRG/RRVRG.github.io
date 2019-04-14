@@ -3,6 +3,10 @@
   margin: 100px;
 }
 
+body {
+  margin: 80px;
+}
+
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
