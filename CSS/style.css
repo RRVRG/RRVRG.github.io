@@ -2,3 +2,30 @@
   font-family: sans-serif;
 
 }
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+th {
+  font-size: 14px;
+}
+
+th.title {
+  font-weight: bold;
+  font-size: 16px;
+
+}
+
+.heading {
+  text-transform: uppercase;
+}
+
+.heading2 {
+  width: 500px;
+}
