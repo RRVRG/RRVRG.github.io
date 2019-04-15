@@ -34,3 +34,7 @@ th.title {
   width: 400px;
   color: #990000;
 }
+
+a:visited {
+  color: blue;
+}
